@@ -1,0 +1,18 @@
+St. Mary's Technologies Confidetial
+
+This document contains sensitive information regarding the company's operational procedures and secturity protocols.
+ 
+1. Employee Credentials:
+ -Alice: alice@stmarys-tech.com, Password: Alice@2025
+ -Bob: bob@stmarys-tech.com, Password: B0b#Secure
+
+2. Server Information: 
+ -Web Server: 192.168.1.10, Port: 443
+ - Database Server: 192.168.1.20, Port: 3306
+
+3. Network Security Notes:
+ - All sensitive communitcations must use AES-256 encryption in CBC mode.
+ - RSA public-private key pairs must be updated every 6 months.
+ - No open ports except essential services.
+
+Handle this information responsibly, Unauthorized access is prohibited.
